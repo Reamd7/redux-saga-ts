@@ -47,7 +47,7 @@
   },
   "homepage": "https://redux-saga.js.org/",
   "dependencies": {
-    "@redux-saga/symbols": "^1.1.2"
+    "@redux-saga/symbols": "workspace:*"
   },
   "devDependencies": {
     "@babel/core": "^7.6.4",

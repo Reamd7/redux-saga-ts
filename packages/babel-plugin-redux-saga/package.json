@@ -32,6 +32,6 @@
     "source-map": "^0.6.1"
   },
   "peerDependencies": {
-    "redux-saga": "^1.0.0-rc.0"
+    "redux-saga": "workspace:*"
   }
 }

@@ -47,11 +47,11 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.6.3",
-    "@redux-saga/deferred": "^1.1.2",
-    "@redux-saga/delay-p": "^1.1.2",
-    "@redux-saga/is": "^1.1.2",
-    "@redux-saga/symbols": "^1.1.2",
-    "@redux-saga/types": "^1.1.0",
+    "@redux-saga/deferred": "workspace:*",
+    "@redux-saga/delay-p": "workspace:*",
+    "@redux-saga/is": "workspace:*",
+    "@redux-saga/symbols": "workspace:*",
+    "@redux-saga/types": "workspace:*",
     "redux": "^4.0.4",
     "typescript-tuple": "^2.2.1"
   },

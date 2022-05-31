@@ -32,10 +32,10 @@
   "homepage": "https://redux-saga.js.org/",
   "dependencies": {
     "@babel/runtime": "^7.6.3",
-    "@redux-saga/is": "^1.1.2"
+    "@redux-saga/is": "workspace:*"
   },
   "peerDependencies": {
-    "redux-saga": "^1.0.0"
+    "redux-saga": "workspace:*"
   },
   "devDependencies": {
     "@babel/core": "^7.6.4",
